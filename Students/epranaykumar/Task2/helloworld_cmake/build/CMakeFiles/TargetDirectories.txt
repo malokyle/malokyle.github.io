@@ -1,1 +1,0 @@
-/home/pranaykumar/ClionProjects/helloworld/build/CMakeFiles/helloworld.dir
